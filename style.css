@@ -1,3 +1,25 @@
+body {
+  text-align: center;
+}
+
 h1 {
- color: #CCC;
+  font-size: 70px;
+  color: #84055c;
+}
+
+h2 {
+  font-size: 35px;
+  color: #646a72;
+}
+
+.first-verse {
+  font-size: 20px;
+}
+
+.second-verse {
+  color: #706d6f;
+}
+
+.third-verse {
+  font-style: italic;
 }
